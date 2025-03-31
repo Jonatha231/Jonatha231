@@ -1,4 +1,4 @@
-##  Hi guys, welcome to my Git hub 🤙
+##  Hi guys, welcome to my repository 🤙
 
 <!--
 **Jonatha231/Jonatha231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
